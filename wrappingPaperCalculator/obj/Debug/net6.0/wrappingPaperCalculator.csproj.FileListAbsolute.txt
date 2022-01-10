@@ -1,0 +1,15 @@
+C:\Users\19084\source\repos\wrappingPaperCalculator\bin\Debug\net6.0\wrappingPaperCalculator.exe
+C:\Users\19084\source\repos\wrappingPaperCalculator\bin\Debug\net6.0\wrappingPaperCalculator.deps.json
+C:\Users\19084\source\repos\wrappingPaperCalculator\bin\Debug\net6.0\wrappingPaperCalculator.runtimeconfig.json
+C:\Users\19084\source\repos\wrappingPaperCalculator\bin\Debug\net6.0\wrappingPaperCalculator.dll
+C:\Users\19084\source\repos\wrappingPaperCalculator\bin\Debug\net6.0\ref\wrappingPaperCalculator.dll
+C:\Users\19084\source\repos\wrappingPaperCalculator\bin\Debug\net6.0\wrappingPaperCalculator.pdb
+C:\Users\19084\source\repos\wrappingPaperCalculator\obj\Debug\net6.0\wrappingPaperCalculator.csproj.AssemblyReference.cache
+C:\Users\19084\source\repos\wrappingPaperCalculator\obj\Debug\net6.0\wrappingPaperCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\19084\source\repos\wrappingPaperCalculator\obj\Debug\net6.0\wrappingPaperCalculator.AssemblyInfoInputs.cache
+C:\Users\19084\source\repos\wrappingPaperCalculator\obj\Debug\net6.0\wrappingPaperCalculator.AssemblyInfo.cs
+C:\Users\19084\source\repos\wrappingPaperCalculator\obj\Debug\net6.0\wrappingPaperCalculator.csproj.CoreCompileInputs.cache
+C:\Users\19084\source\repos\wrappingPaperCalculator\obj\Debug\net6.0\wrappingPaperCalculator.dll
+C:\Users\19084\source\repos\wrappingPaperCalculator\obj\Debug\net6.0\ref\wrappingPaperCalculator.dll
+C:\Users\19084\source\repos\wrappingPaperCalculator\obj\Debug\net6.0\wrappingPaperCalculator.pdb
+C:\Users\19084\source\repos\wrappingPaperCalculator\obj\Debug\net6.0\wrappingPaperCalculator.genruntimeconfig.cache
